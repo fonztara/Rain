@@ -1,6 +1,6 @@
 # 🌦️ Rain
 
-Rain is an immersive experience thought as a journal for iPad for processing your emotions to avoid outbursts.
+Rain is an immersive experience thought as a journal for iPad for processing your emotions through a weather metaphor to avoid outbursts.
 
 ## 🔧 Technologies and Practices
 
