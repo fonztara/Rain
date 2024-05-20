@@ -4,10 +4,10 @@ Rain is an immersive experience thought as a journal for iPad for processing you
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: left;">
-  <img src="./images/rain1.png" alt="Description of image1" style="max-width: 45%; min-width:250px; margin: 10px; height: auto;">
-  <img src="./images/rain2.png" alt="Description of image1" style="max-width: 45%; min-width:250px; margin: 10px; height: auto;">
-  <img src="./images/rain3.png" alt="Description of image1" style="max-width: 45%; min-width:250px; margin: 10px; height: auto;">
-  <img src="./images/rain4.png" alt="Description of image1" style="max-width: 45%; min-width:250px; margin: 10px; height: auto;">
+  <img src="./images/rain1.png" alt="Description of image1" style="max-width: 20%; min-width:250px; margin: 10px; height: auto;">
+  <img src="./images/rain2.png" alt="Description of image1" style="max-width: 20%; min-width:250px; margin: 10px; height: auto;">
+  <img src="./images/rain3.png" alt="Description of image1" style="max-width: 20%; min-width:250px; margin: 10px; height: auto;">
+  <img src="./images/rain4.png" alt="Description of image1" style="max-width: 20%; min-width:250px; margin: 10px; height: auto;">
 </div>
 
 
