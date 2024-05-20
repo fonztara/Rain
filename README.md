@@ -2,10 +2,38 @@
 
 Rain is an immersive experience thought as a journal for iPad for processing your emotions to avoid outbursts.
 
-<img width="200px" src="./images/rain1.png" />
-<img width="200px" src="./images/rain2.png" />
-<img width="200px" src="./images/rain3.png" />
-<img width="200px" src="./images/rain4.png" />
+<img align="left" width="200px" src="./images/rain1.png" />
+<img align="left" width="200px" src="./images/rain2.png" />
+<img align="left" width="200px" src="./images/rain3.png" />
+<img align="left" width="200px" src="./images/rain4.png" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## 🔧 Technologies and Practices
 
