@@ -13,7 +13,6 @@ To let the user draw while journaling.
 - <b>MVVM</b><br/>
 To manage seamless navigation and data flow.
 
-
 <div style="display: flex; flex-wrap: wrap; justify-content: left;">
   <img src="./images/rain1.png" alt="Description of image1" style="max-width: 20%; min-width:150px; margin: 10px; height: auto;">
   <img src="./images/rain2.png" alt="Description of image1" style="max-width: 20%; min-width:150px; margin: 10px; height: auto;">
